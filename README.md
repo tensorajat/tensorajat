@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, Computer Vision and LLMs**
 
-- 👨‍💻 All of my projects are available at [github.com/tensorajat](github.com/tensorajat)
+- 👨‍💻 All of my projects are available at [github.com/tensorajat](tensorajat)
 
 - 💬 Ask me about **Machine Learning, Computer Vision and Astronomy**
 
