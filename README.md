@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Raghav</h1>
 <h3 align="center">A Coder and Machine Learning enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tensorrajat&label=Profile%20views&color=f49548&style=flat-square" alt="tensorrajat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tensorajat&label=Profile%20views&color=f49548&style=flat-square" alt="tensorajat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajat7raghav" target="blank"><img src="https://img.shields.io/twitter/follow/rajat7raghav?logo=twitter&style=for-the-badge" alt="rajat7raghav" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Neural Networks, Computer Vision and LLMs**
 
-- 👨‍💻 All of my projects are available at [github.com/tensorrajat](github.com/tensorrajat)
+- 👨‍💻 All of my projects are available at [github.com/tensorajat](github.com/tensorajat)
 
 - 💬 Ask me about **Machine Learning, Computer Vision and Astronomy**
 
